@@ -1,0 +1,24 @@
+{
+  "name": "knex-migrations-db-driven-applications-08a",
+  "version": "1.0.0",
+  "description": "https://github.com/nashville-software-school/node-milestones/blob/master/02-db-driven-applications/exercises/08a-knex-migrations.md",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wisbell/knex-migrations-db-driven-applications-08a.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wisbell/knex-migrations-db-driven-applications-08a/issues"
+  },
+  "homepage": "https://github.com/Wisbell/knex-migrations-db-driven-applications-08a#readme",
+  "dependencies": {
+    "knex": "^0.12.9",
+    "pg": "^6.1.5"
+  }
+}
